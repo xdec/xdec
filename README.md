@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @xdec
 - 👀 I’m interested in Data & Technology
-- 🌱 I’m currently learning about Advanced Machine Learning concepts and a range of new programming languages
-- 💞️ I’m looking to collaborate on Big Data and Media related projects
+- 🌱 I’m currently learning about Machine Learning
+- 💞️ I’m looking to collaborate on Machine Learning, Marketing, and Web projects
